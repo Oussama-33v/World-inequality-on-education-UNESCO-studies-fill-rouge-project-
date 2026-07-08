@@ -1,4 +1,4 @@
-too many messing values at nemeric variables but it still good data to analys
+too many messing values on nemeric variables but it still good data to analys
 dataset had no deplucate rows
 there is no problem with the messing values its a part of data
 too many outlayers
